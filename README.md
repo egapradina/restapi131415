@@ -29,5 +29,5 @@
 <i>! Warning ! Status 1 artinya aktif dan 0 artinya tidak aktif</i>
 
 Thanks Contributor 
-[M Iqbal](https://github.com/Nomotoki)
-[Ega Apsari P.](https://github.com/egapradina)
+- [M Iqbal](https://github.com/Nomotoki)
+- [Ega Apsari P.](https://github.com/egapradina)
